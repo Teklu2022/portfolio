@@ -80,7 +80,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-cd Hello_Microverse_Project
+cd Microverse_Project
 git clone https://https://github.com/Teklu2022/portfolio.git
 ```
 
